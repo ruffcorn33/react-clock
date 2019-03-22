@@ -15,6 +15,6 @@ In render()
 
 ## Parameters
 
-format24H: boolean<br>
-true will display military time.<br>
-false will display 12 hour format with am/pm label
+__format24H:__ boolean<br>
+- true will display military time.<br>
+- false will display 12 hour format with am/pm label
