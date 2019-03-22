@@ -4,6 +4,8 @@ A React component to display a digital clock
 
 ## Usage
 
+_Note: requires Moment.js_
+
     import Clock from "../Clock";
 
 In render()
