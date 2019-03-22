@@ -1,6 +1,6 @@
 # react-clock
 
-A React component to display a digital clock
+A React digital clock component
 
 ## Usage
 
